@@ -1,0 +1,33 @@
+
+#social-container {
+}
+
+.social-item {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+.social-item:hover {
+    transform: translateY(+1vh);
+}
+
+.facebook {
+    color: #4968ad;
+}
+
+.twitter {
+    color: #49a1eb;
+}
+
+.linkedin {
+    color: #49a1eb;
+}
+
+.github {
+    color: #ffffff;
+}
+
+.slack {
+    color: brown;
+}
