@@ -11,6 +11,8 @@ class AboutMe extends React.Component {
                 <hr />
                 <div className="about-me-content">
                     {data.content}
+                    <blockquote>Nowak Kamil <br />
+                        nowakcreazy@protonmail.com</blockquote>
                 </div>
             </div>
         );

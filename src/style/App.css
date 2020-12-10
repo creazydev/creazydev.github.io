@@ -15,8 +15,13 @@ body {
 .header-title {
 }
 
+h2 {
+    color: aqua;
+}
+
 @media (max-height: 500px) {
     .App {
         font-size: x-small;
     }
 }
+
