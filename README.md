@@ -1,12 +1,14 @@
-#Portfolio - single page site
-####Simple single page site created with ReactJS
+# Portfolio - single page site
 
-##Table of Contents
-#####General info
-#####Technologies
-#####Setup
-#####Status
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-##Technologies
-ReactJS 17.0.1
+
+## General info
+Simple single page site created with ReactJS
+
+## Technologies
+* ReactJS 17.0.1
 
