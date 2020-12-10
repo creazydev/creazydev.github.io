@@ -1,12 +1,15 @@
 .about-me {
-    height: 20vh;
-    padding: 0.5vh;
-    margin: 2vh 5vh;
-    background-color: #ffffff;
-    color: indigo;
+    height: 15vh;
+    padding: 2vh 2vw;
+    margin: 2vh 5vw;
+    color: #ffffff;
+}
+
+.about-me h2 {
+    color: aqua;
 }
 
 .about-me-content {
-    padding: 0.5vh;
+    padding: 0.5vh 0.5vw;
     text-justify: auto;
 }

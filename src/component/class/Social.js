@@ -1,5 +1,6 @@
 import * as React from 'react';
-import '../../style/social.css';
+import '../../style/Social.css';
+
 import SocialItem from "../item/SocialItem";
 import {
     faFacebook,

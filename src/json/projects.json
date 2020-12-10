@@ -1,53 +1,56 @@
 [
   {
-    "name": "Project1",
-    "content": "content",
+    "name": "Schedule API",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     "tags": [
-      "java",
-      "spring-boot"
+      "java 8",
+      "spring-boot",
+      "postgresql",
+      "hibernate",
+      "junit",
+      "mockito",
+      "rest",
+      "hateoas",
+      "hal",
+      "DDD",
+      "lombok"
     ],
-    "libs": [
-      "apache-poi"
-    ],
-    "links": [
-      {
-        "img": "img",
-        "readMe": "readMe"
-      }
-    ]
+    "links": {
+        "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/api-img.png",
+        "readme": "https://github.com/creazydev/schedule-read-only-api/blob/main/README.md"
+    }
   },
   {
-    "name": "Project1",
-    "content": "content",
+    "name": "Schedule Updater",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     "tags": [
-      "java",
-      "spring-boot"
+      "java 8",
+      "spring-boot",
+      "postgresql",
+      "hibernate",
+      "apache-poi",
+      "jsoup",
+      "DDD"
     ],
-    "libs": [
-      "apache-poi"
-    ],
-    "links": [
-      {
-        "img": "img",
-        "readMe": "readMe"
-      }
-    ]
+    "links": {
+      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/api-img.png",
+      "readme": "https://github.com/creazydev/schedule-update-api"
+    }
   },
   {
-    "name": "Project1",
-    "content": "content",
+    "name": "Schedule UI",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     "tags": [
-      "java",
-      "spring-boot"
+      "nodejs",
+      "reactjs",
+      "js",
+      "html",
+      "css",
+      "hateoas API consumer"
     ],
-    "libs": [
-      "apache-poi"
-    ],
-    "links": [
-      {
-        "img": "img",
-        "readMe": "readMe"
-      }
-    ]
+    "links": {
+      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/api-img.png",
+      "readme": "https://github.com/creazydev/schedule-read-only-api/blob/main/README.md"
+    }
   }
 ]

@@ -2,12 +2,21 @@ body {
     margin: 0;
     padding: 0 0 5vh 0;
     font-family: sans-serif;
-    overflow-x: hidden;
-    background-color: #282c34;
-}
+    overflow: hidden;
+    background-color: #282c34;}
 
 .App {
     height: 95vh;
     color: white;
+    font-size: medium;
     text-align: center;
     position: relative; }
+
+.header-title {
+}
+
+@media (max-height: 500px) {
+    .App {
+        font-size: x-small;
+    }
+}
