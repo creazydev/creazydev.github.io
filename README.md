@@ -8,7 +8,7 @@
 
 
 ## General info
-Simple single page site created with ReactJS
+Simple single page site created with ReactJS that displays my projects' description in native language `PL`.
 
 ## Technologies
 * ReactJS 17.0.1
