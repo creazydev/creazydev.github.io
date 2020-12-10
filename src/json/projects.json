@@ -33,7 +33,7 @@
       "DDD"
     ],
     "links": {
-      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/api-img.png",
+      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/updater-img.png",
       "readme": "https://github.com/creazydev/schedule-update-api"
     }
   },
@@ -46,11 +46,11 @@
       "js",
       "html",
       "css",
-      "hateoas API consumer"
+      "hateoas driven"
     ],
     "links": {
-      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/api-img.png",
-      "readme": "https://github.com/creazydev/schedule-read-only-api/blob/main/README.md"
+      "img": "https://raw.githubusercontent.com/creazydev/creazydev.github.io/main/src/assets/ui-img.png",
+      "readme": "https://github.com/creazydev/schedule-ui/blob/main/README.md"
     }
   }
 ]
