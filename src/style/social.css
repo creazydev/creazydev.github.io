@@ -1,15 +1,16 @@
-
 #social-container {
+    height: 2vh;
+    padding: 1.5vh;
 }
 
 .social-item {
-    margin: 0 1rem;
+    margin: 0 2rem;
     transition: transform 250ms;
     display: inline-block;
 }
 
 .social-item:hover {
-    transform: translateY(+1vh);
+    transform: translateY(+1.2vh);
 }
 
 .facebook {

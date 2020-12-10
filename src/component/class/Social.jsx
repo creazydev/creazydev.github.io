@@ -10,8 +10,6 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 class Social extends React.Component {
-
-
     render() {
         return (
             <div id="social-container">

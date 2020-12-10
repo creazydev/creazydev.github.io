@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0 0 5vh 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    background-color: #282c34;
+}
+
+.App {
+    height: 95vh;
+    color: white;
+    text-align: center;
+    position: relative; }

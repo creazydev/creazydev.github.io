@@ -1,0 +1,12 @@
+.about-me {
+    height: 20vh;
+    padding: 0.5vh;
+    margin: 2vh 5vh;
+    background-color: #ffffff;
+    color: indigo;
+}
+
+.about-me-content {
+    padding: 0.5vh;
+    text-justify: auto;
+}
