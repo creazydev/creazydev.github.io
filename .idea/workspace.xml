@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="862804eb-6313-403f-a79c-cf30678eaaf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/AboutMe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/ProjectSlideShow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Social.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/api-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/ui-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/updater-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/class/AboutMe.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/class/ProjectSlider.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/class/Social.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/item/Card.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/item/SocialItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/SocialItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/json/aboutme.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/json/aboutme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/json/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/json/projects.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/AboutMe.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/Card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/ProjectSlider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/Social.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/index.css" beforeDir="false" />
-    </list>
+    <list default="true" id="862804eb-6313-403f-a79c-cf30678eaaf6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +98,7 @@
       <workItem from="1607855592935" duration="11568000" />
       <workItem from="1607880534036" duration="5669000" />
       <workItem from="1607886380806" duration="11071000" />
-      <workItem from="1607923881374" duration="6553000" />
+      <workItem from="1607923881374" duration="6834000" />
     </task>
     <servers />
   </component>
