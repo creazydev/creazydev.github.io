@@ -1,13 +1,14 @@
 import * as React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {Navbar} from "react-bootstrap";
 
 const SocialItem = ({ url, name, socialIcon }) => {
     return (
-        <div className="social-item">
+        <Navbar.Brand>
             <a href={url}>
-                <FontAwesomeIcon className={name} icon={socialIcon} size="2x"/>
+                <FontAwesomeIcon id="social-icon" icon={socialIcon} size="2x"/>
             </a>
-        </div>
+        </Navbar.Brand>
     );
 };
 export default SocialItem;

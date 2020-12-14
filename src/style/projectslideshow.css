@@ -1,0 +1,54 @@
+h2 {
+    color: #6db33f;;
+    text-align: center;
+}
+
+.project-content {
+    padding: 2vh 15vw;
+    color: white;
+}
+
+.project-description {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 800;
+}
+
+.aligned {
+    text-align: center;
+}
+
+.tags {
+    font-weight: bold;
+    text-align: left;
+}
+
+.tag {
+    display: inline-block;
+    height: 2.3vh;
+    font-weight: 500;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: 2vh;
+    padding: 0 0.5vh;
+    border-radius: 0.3vw;
+    background-color: #e4e4e4;
+    margin-bottom: 0.5vh;
+    margin-right: 0.5vh;
+    transition: all .15s ease-in-out;
+}
+
+.project-content a {
+    text-decoration: none;
+    font-size: small;
+    text-align: center;
+    color: white;
+    border-radius: 5vw;
+    padding: 0.9vh;
+    background-color: #007bff;
+}
+
+.project-content a:hover {
+    transition: 250ms;
+    color: #c1c1c1;
+    background-color: #0057c1;
+}

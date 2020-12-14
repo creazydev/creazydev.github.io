@@ -1,19 +1,35 @@
-import React from 'react';
-import './style/App.css';
+import './style/app.css'
 
-import Social from "./component/class/Social";
-import AboutMe from "./component/class/AboutMe";
-import ProjectSlider from "./component/class/ProjectSlider";
+import NavBar from "./js/NavBar";
+import ProjectSlideShow from "./js/ProjectSlideShow";
+import AboutMe from "./js/AboutMe";
 
-class App extends React.Component {
-    render() {
-        return (
-            <div className="App">
-                <Social />
-                <AboutMe />
-                <ProjectSlider />
-            </div>
-        );
-    }
+import {Container} from "react-bootstrap";
+import {Row} from "react-bootstrap";
+import {Col} from "react-bootstrap";
+
+function App() {
+    return (
+        <Container id="app" fluid className="p-0">
+            <Row>
+                <Col>
+                    <NavBar />
+                </Col>
+            </Row>
+            <Row>
+                <Col>
+                    <AboutMe />
+                </Col>
+            </Row>
+            <Row>
+
+            </Row>
+            <Row>
+                <Col>
+                    <ProjectSlideShow />
+                </Col>
+            </Row>
+        </Container>
+    );
 }
 export default App;

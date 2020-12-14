@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Schedule API",
+    "content": "Proste REST API udostępniające plan zajęć w formacie JSON. Do reprezentacji danych wykorzystano jedną z implementacji HATEOAS a konkretnie HAL. Umożliwia to aplikacjom klienckim nawigację po zbiorze za pomocą linków. Do komunikacji z PostgreSQL wykorzystano Hibernate.",
+    "tags": [
+      "java 8",
+      "spring-boot",
+      "postgresql",
+      "hibernate",
+      "junit",
+      "mockito",
+      "rest",
+      "hateoas",
+      "hal",
+      "DDD",
+      "lombok"
+    ],
+    "links": {
+        "readme": "https://github.com/creazydev/schedule-read-only-api/blob/main/README.md"
+    }
+  },
+  {
+    "name": "Schedule Updater",
+    "content": "Aplikacja usługi zajmująca się aktualizacją planu. Wykonuję prostą sekwencje co określony czas (30min). Pobiera plan zajęć w formacie .xls z dokumntu HTML i przy pomocy biblioteki Apache POI parsuje uzyskane dane do PostgreSQL. Do definiowania obiektów bazodanowych wykorzystuje podejście DDD.",
+    "tags": [
+      "java 8",
+      "spring-boot",
+      "postgresql",
+      "hibernate",
+      "apache poi",
+      "jsoup",
+      "DDD"
+    ],
+    "links": {
+      "readme": "https://github.com/creazydev/schedule-update-api"
+    }
+  },
+  {
+    "name": "Schedule UI",
+    "content": "Prosty bezstanowy interfejs użytkownika stworzony za pomocą biblioteki ReactJS. Aplikacja konsumuje Schedule API i dzięki React'owym komponentom dostarcza użytkownikom najnowszą wersje planu zajęć. Aplikacja nawiguje po zasobach API za pomocą hypermediów.",
+    "tags": [
+      "nodejs",
+      "reactjs",
+      "js",
+      "html",
+      "css",
+      "hateoas driven"
+    ],
+    "links": {
+      "readme": "https://github.com/creazydev/schedule-ui/blob/main/README.md"
+    }
+  }
+]
