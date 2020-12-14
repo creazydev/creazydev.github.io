@@ -1,10 +1,9 @@
-# Portfolio - single page site
+# Portfolio - single responsive page site
 #### [Demo](https://creazydev.github.io)
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Inspiration](#sources)
 
 
 ## General info
